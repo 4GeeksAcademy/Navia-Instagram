@@ -41,12 +41,14 @@ HTML {
 
 .bookmark {
   float: right;
-  padding-right: 90px;
+  padding-right: 20px;
 }
 
 h1 {
   margin: 20px;
   padding-left: 50px;
+  padding-top: 20px;
+  font-size: 25px;
 }
 h6 {
   font-size: 20px;
